@@ -10,7 +10,7 @@ body {
 form {
   border-radius: 5px; /* Rounded edges for the form */
   padding: 20px;
-  background-color:; /* Light gray background for the form */
+  background-color:none; /* Light gray background for the form */
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional: Add a subtle shadow */
 }
 
